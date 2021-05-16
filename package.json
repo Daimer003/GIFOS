@@ -1,0 +1,22 @@
+{
+  "name": "gifos",
+  "version": "1.0.0",
+  "description": "Proyecto de gifos ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daimer003/Gifos.git"
+  },
+  "author": "Daimer Perdomo M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daimer003/Gifos/issues"
+  },
+  "homepage": "https://github.com/Daimer003/Gifos#readme",
+  "dependencies": {
+    "sass": "^1.32.13"
+  }
+}
